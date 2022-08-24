@@ -1,0 +1,18 @@
+[
+  {
+  "ParameterKey": "CFNTemplateRepoName",
+  "ParameterValue": "cfn-nested-repo"
+  },
+  {
+  "ParameterKey": "UATTopic",
+  "ParameterValue": "NestedCFN-BaseStack-UATTopic-18MI4G8URMW6E"
+  },
+  {
+  "ParameterKey": "ProdTopic",
+  "ParameterValue": "NestedCFN-BaseStack-ProdTopic-11BUI2WPOJ4T8"
+  },
+  {
+  "ParameterKey": "ArtifactStoreS3Location",
+  "ParameterValue": "nestedcfn-basestack-s3bucket-1hz6f6kd3znb9"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Parameters" : {
+    "TemplatePath": "TEMPLATE_PATH_PLACEHOLDER",
+    "VPCID": "vpc-0b2c9a17cf538219d",
+    "PrivateSubnet1": "subnet-068acc7762e43a05e",
+    "PrivateSubnet2": "subnet-0276e847171dc5c7e",
+    "PublicSubnet1": "subnet-054fec24d2fb07401",
+    "PublicSubnet2": "subnet-050c9d215c140899a",
+    "S3BucketName": "nestedcfn-basestack-s3bucket-1hz6f6kd3znb9",
+    "KeyPair": "sureshkey",
+    "AMIId": "ami-090fa75af13c156b4",
+    "WebInstanceType": "t2.micro",
+    "WebMinSize": "1",
+    "WebMaxSize": "1",
+    "DBSubnetGroup": "nestedcfn-basestack-rdssubnetgroup-5t2xgggeanan",
+    "DBUsername": "dbadmin",
+    "DBPassword": "dbpAssw0rd",
+    "DBInstanceType": "db.t2.small",
+    "Environment": "uat"
+  }
+}
