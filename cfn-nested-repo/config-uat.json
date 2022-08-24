@@ -1,7 +1,7 @@
 {
   "Parameters" : {
     "TemplatePath": "TEMPLATE_PATH_PLACEHOLDER",
-    "VPCID": "vpc-0b2c9a17cf538219d",
+    "VPCID": "vpc-0e8eaaa86ed109ee6",
     "PrivateSubnet1": "subnet-0f8a364c7f04e1128",
     "PrivateSubnet2": "subnet-0be3815d59c847d4d",
     "PublicSubnet1": "subnet-003b9e6af903f7de4",
