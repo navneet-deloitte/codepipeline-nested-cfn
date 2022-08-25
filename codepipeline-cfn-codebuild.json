@@ -5,14 +5,14 @@
   },
   {
   "ParameterKey": "UATTopic",
-  "ParameterValue": "NestedCFN-BaseStack-UATTopic-6U1M094AH16R"
+  "ParameterValue": "NestedCFN-BaseStack-UATTopic-wERRRezEqu70"
   },
   {
   "ParameterKey": "ProdTopic",
-  "ParameterValue": "NestedCFN-BaseStack-ProdTopic-BGBC5LJZ56CJ"
+  "ParameterValue": "NestedCFN-BaseStack-ProdTopic-A13qolV1sLNw"
   },
   {
   "ParameterKey": "ArtifactStoreS3Location",
-  "ParameterValue": "nestedcfn-basestack-s3bucket-1giakjkyhc5lb"
+  "ParameterValue": "nestedcfn-basestack-s3bucket-d5jyie0nzkbf"
   }
 ]
